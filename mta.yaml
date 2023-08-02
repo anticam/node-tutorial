@@ -1,0 +1,10 @@
+_schema-version: '3.1'
+ID: sample
+version: 0.0.1
+
+modules:
+  - name: m1
+    type: custom
+    path: myapp
+    parameters:
+      buildpack: https://github.com/cloudfoundry/nodejs-buildpack.git#1.8.9
