@@ -8,3 +8,5 @@ modules:
     path: myapp
     parameters:
       buildpack: https://github.com/cloudfoundry/nodejs-buildpack.git#1.8.9
+      stack: cflinuxfs4
+      

@@ -1,0 +1,1552 @@
+#2.0#2023 08 02 20:43:27.244#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:53:45.919645] Uploading app package for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:27.244#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:53:46.162279] Updated app with guid 5d6b88ce-e300-4803-b606-20d6d176156f ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:27.244#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:00.886959] Scaling process: "web" (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:27.244#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.135681] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.480931] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.928331] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.946828] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.498061] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.498076] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.551605] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.660886] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.515019] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.521046] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.706324] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.706374] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.745133] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:06.066069] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:12.560472] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:12.901978] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.344046] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.362119] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.681742] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.681752] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.745787] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.790942] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.203520] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.208957] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.648107] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.648134] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.680073] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:15.589203] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:22.387290] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:22.807633] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.203077] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.220102] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.550484] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.550507] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.601285] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.669643] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.094203] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.099895] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.328296] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.328319] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.363678] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:25.201185] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:32.691888] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.022780] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.455736] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.470498] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.807435] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.807465] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.858139] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.921233] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.361359] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.366515] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.764463] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.764489] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.795526] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:35.969707] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.245#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:02.148249] Uploading app package for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:02.293140] Updated app with guid 5d6b88ce-e300-4803-b606-20d6d176156f ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:17.322854] Scaling process: "web" (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:17.661157] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.074171] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.491666] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.510761] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.899049] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.899063] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.960593] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.022179] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.471213] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.477122] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.703232] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.703268] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.734686] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:27.246#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15009###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:21.312424] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:53:45.919645] Uploading app package for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:53:46.162279] Updated app with guid 5d6b88ce-e300-4803-b606-20d6d176156f ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:00.886959] Scaling process: "web" (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.135681] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.480931] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.928331] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.946828] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.498061] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.498076] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.551605] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.660886] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.515019] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.521046] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.706324] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.706374] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.199#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.745133] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:06.066069] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:12.560472] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:12.901978] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.344046] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.362119] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.681742] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.681752] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.745787] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.790942] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.203520] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.208957] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.648107] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.648134] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.680073] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:15.589203] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:22.387290] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:22.807633] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.203077] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.220102] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.550484] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.550507] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.601285] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.669643] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.094203] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.099895] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.328296] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.328319] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.363678] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:25.201185] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:32.691888] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.022780] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.455736] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.470498] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.807435] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.807465] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.858139] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.921233] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.361359] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.366515] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.764463] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.764489] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.795526] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:35.969707] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:02.148249] Uploading app package for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:02.293140] Updated app with guid 5d6b88ce-e300-4803-b606-20d6d176156f ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:17.322854] Scaling process: "web" (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:17.661157] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.074171] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.491666] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.510761] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.899049] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.899063] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.960593] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.022179] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.471213] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.477122] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.703232] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.703268] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.734686] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:21.312424] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.200#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:30.539250] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:37.201#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:30.880540] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.201#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.299583] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.201#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.314758] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.201#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.636801] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.201#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.636869] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.201#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.696934] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.201#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.745204] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.201#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.261639] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:37.201#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.266939] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.201#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.584800] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.201#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.584825] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:37.201#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.638882] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:37.201#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15359###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:33.505128] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.359#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:53:45.919645] Uploading app package for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:47.359#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:53:46.162279] Updated app with guid 5d6b88ce-e300-4803-b606-20d6d176156f ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:47.359#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:00.886959] Scaling process: "web" (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:47.359#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.135681] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:47.359#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.480931] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.928331] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.946828] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.498061] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.498076] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.551605] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.660886] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.515019] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.521046] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.706324] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.706374] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.745133] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:06.066069] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:12.560472] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:12.901978] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.344046] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.362119] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.681742] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.681752] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.745787] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.790942] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.203520] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.208957] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.648107] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.648134] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.680073] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:15.589203] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:22.387290] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:22.807633] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.203077] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.220102] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.550484] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.550507] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.601285] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.669643] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.094203] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.099895] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.328296] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.328319] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.363678] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:25.201185] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:32.691888] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.022780] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.455736] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.470498] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.807435] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.807465] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.858139] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.921233] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.361359] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.366515] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.764463] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.764489] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.360#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.795526] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:35.969707] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:02.148249] Uploading app package for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:02.293140] Updated app with guid 5d6b88ce-e300-4803-b606-20d6d176156f ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:17.322854] Scaling process: "web" (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:17.661157] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.074171] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.491666] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.510761] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.899049] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.899063] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.960593] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.022179] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.471213] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.477122] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.703232] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.703268] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.734686] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:21.312424] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:30.539250] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:30.880540] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.299583] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.314758] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.636801] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.636869] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.696934] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.745204] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.261639] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.266939] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.584800] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.584825] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.638882] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:33.505128] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:40.451304] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:40.799143] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 creating container for instance a8bbdd1f-2db6-4fb0-b4ef-7dd119ed1be3 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:41.224991] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:41.244063] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 successfully created container for instance a8bbdd1f-2db6-4fb0-b4ef-7dd119ed1be3 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:41.682098] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:41.682131] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:41.735376] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:41.795230] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:42.215728] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:42.221146] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:42.743869] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 stopping instance a8bbdd1f-2db6-4fb0-b4ef-7dd119ed1be3 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:42.743895] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 destroying container for instance a8bbdd1f-2db6-4fb0-b4ef-7dd119ed1be3 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:42.779920] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:47.361#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15022###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:43.772537] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 successfully destroyed container for instance a8bbdd1f-2db6-4fb0-b4ef-7dd119ed1be3 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.250#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:53:45.919645] Uploading app package for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:53:46.162279] Updated app with guid 5d6b88ce-e300-4803-b606-20d6d176156f ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:00.886959] Scaling process: "web" (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.135681] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.480931] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.928331] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:01.946828] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.498061] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.498076] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.551605] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:02.660886] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.515019] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.521046] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.706324] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.706374] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:03.745133] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:06.066069] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance a963ee76-b85f-4b0b-828c-6970fcd48b2e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:12.560472] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:12.901978] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.344046] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.362119] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.681742] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.681752] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.745787] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:13.790942] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.203520] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.208957] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.648107] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.648134] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:14.680073] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:15.589203] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 2e43f0c0-3da3-414e-8c19-3b66276b114e (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:22.387290] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:22.807633] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.203077] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.220102] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.550484] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.550507] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.601285] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:23.669643] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.094203] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.099895] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.328296] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.328319] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.251#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:24.363678] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:25.201185] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 12bb95dc-d673-4cc9-afa2-21eb2e5ca551 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:32.691888] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.022780] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.455736] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.470498] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.807435] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.807465] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.858139] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:33.921233] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.361359] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.366515] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.764463] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.764489] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:34.795526] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T19:54:35.969707] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance 36f53777-53d5-4b54-8107-9c5b306f603d (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:02.148249] Uploading app package for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:02.293140] Updated app with guid 5d6b88ce-e300-4803-b606-20d6d176156f ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:17.322854] Scaling process: "web" (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:17.661157] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.074171] Cell c839c7b1-088e-41af-b9b7-66256aacd457 creating container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.491666] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.510761] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully created container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.899049] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.899063] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:18.960593] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.022179] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.471213] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.477122] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.703232] Cell c839c7b1-088e-41af-b9b7-66256aacd457 stopping instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.703268] Cell c839c7b1-088e-41af-b9b7-66256aacd457 destroying container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:19.734686] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:21.312424] Cell c839c7b1-088e-41af-b9b7-66256aacd457 successfully destroyed container for instance 15cb7b29-fa0f-4550-8460-ce14e261e8ff (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:30.539250] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:30.880540] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 creating container for instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.299583] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.314758] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully created container for instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.636801] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.636869] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.696934] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:31.745204] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.261639] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.266939] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.584800] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 stopping instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.584825] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 destroying container for instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:32.638882] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:33.505128] Cell d1cc041a-d5a1-41d6-b9f6-6cda736ce3f0 successfully destroyed container for instance dcdaaab3-eaba-4484-b59b-724c5f083503 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:40.451304] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:40.799143] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 creating container for instance a8bbdd1f-2db6-4fb0-b4ef-7dd119ed1be3 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:41.224991] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:41.244063] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 successfully created container for instance a8bbdd1f-2db6-4fb0-b4ef-7dd119ed1be3 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:41.682098] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:41.682131] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.252#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:41.735376] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:41.795230] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:42.215728] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:42.221146] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:42.743869] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 stopping instance a8bbdd1f-2db6-4fb0-b4ef-7dd119ed1be3 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:42.743895] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 destroying container for instance a8bbdd1f-2db6-4fb0-b4ef-7dd119ed1be3 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:42.779920] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:43.772537] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 successfully destroyed container for instance a8bbdd1f-2db6-4fb0-b4ef-7dd119ed1be3 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:50.213852] Creating build for app with guid 5d6b88ce-e300-4803-b606-20d6d176156f (STDOUT, API)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:50.555345] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 creating container for instance b5c14dba-c5bd-47ce-a21c-7fabe3885801 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:50.964005] Security group rules were updated (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:50.980306] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 successfully created container for instance b5c14dba-c5bd-47ce-a21c-7fabe3885801 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:51.592567] Downloading app package... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:51.592567] Downloading build artifacts cache... (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:51.646247] Downloaded build artifacts cache (215B) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:51.707873] Downloaded app package (745.4K) (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:52.122995] Failed to clone git repository at https://github.com/cloudfoundry/nodejs-buildpack.git (STDERR, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:52.128289] Exit status 1 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:52.335791] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 stopping instance b5c14dba-c5bd-47ce-a21c-7fabe3885801 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:52.335815] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 destroying container for instance b5c14dba-c5bd-47ce-a21c-7fabe3885801 (STDOUT, STG)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:52.369220] Failed to stage build: staging failed (STDERR, API)#
+
+#2.0#2023 08 02 20:43:57.253#Z#DEBUG#com.sap.cloud.lm.sl.xs2.2867f465-3175-11ee-815f-eeee0a9e2433.m1.stageAppTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-15373###
+[PollStageAppStatusExecution] [m1] 5d6b88ce-e300-4803-b606-20d6d176156f [2023-08-02T20:43:53.399722] Cell 0e9d359d-cbb1-42e2-ae1d-5cfbdc4910b6 successfully destroyed container for instance b5c14dba-c5bd-47ce-a21c-7fabe3885801 (STDOUT, STG)#
+
